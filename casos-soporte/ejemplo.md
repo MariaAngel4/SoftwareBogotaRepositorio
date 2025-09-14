@@ -1,4 +1,4 @@
-# 🗄️ Base de Conocimiento — Error común al iniciar sesión
+#  Base de Conocimiento — Error común al iniciar sesión
 
 **Autor:** Equipo de Soporte Técnico  
 **Última actualización:** 2025-09-13  
