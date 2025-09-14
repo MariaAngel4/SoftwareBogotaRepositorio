@@ -1,10 +1,3 @@
-
-👉 Ejemplo práctico: cualquier nuevo desarrollador puede seguir estos pasos sin perder tiempo preguntando cómo levantar el proyecto.  
-
----
-
-### 📂 2. `base-de-conocimiento/ejemplo.md`
-```markdown
 # 🗄️ Base de Conocimiento — Error común al iniciar sesión
 
 **Autor:** Equipo de Soporte Técnico  
@@ -23,4 +16,4 @@ El problema se debe a que el navegador guarda una **cookie vieja** que genera co
 3. En caso de que siga fallando, restablecer la contraseña desde la opción "¿Olvidaste tu contraseña?".  
 
 ## Recomendación
-Documentar este caso en la base de conocimiento para que el área de soporte reduzca tiempo en llamadas repetitivas.
+Documentar este caso en la base de conocimiento para que el área de soporte reduzca tiempo en llamadas repetitivas.  
