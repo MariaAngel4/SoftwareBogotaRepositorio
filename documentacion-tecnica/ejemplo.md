@@ -1,4 +1,4 @@
-# 🧩Documentación Técnica — Instalación del Entorno de Desarrollo
+# Documentación Técnica — Instalación del Entorno de Desarrollo
 
 **Autor:** Equipo de Desarrollo  
 **Última actualización:** 2025-09-13  
