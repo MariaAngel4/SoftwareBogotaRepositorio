@@ -1,4 +1,4 @@
-#  Retroespectivas — Proyecto Plataforma de Pagos
+#  Retrospectivas — Proyecto Plataforma de Pagos
 
 **Autor:** Equipo de Proyecto  
 **Fecha:** 2025-09-13  
