@@ -1,22 +1,29 @@
-# 🧩 Guía técnica — Integración Pagos Digitales
+# 🧩 Documentación Técnica — Instalación del Entorno de Desarrollo
 
-**Propietario:** Arquitectura — Laura Díaz  
-**Última actualización:** 2025-09-13
+**Autor:** Equipo de Desarrollo  
+**Última actualización:** 2025-09-13  
 
-## Resumen
-Integración de la API de pagos internos: endpoints, autenticación y ejemplos de petición/respuesta.
+## Objetivo
+Explicar cómo configurar el entorno de desarrollo para que un nuevo programador pueda empezar a trabajar sin problemas.
 
-## Endpoint principal
-`POST /api/v1/payments`
+## Requisitos previos
+- Visual Studio Code instalado  
+- Git instalado  
+- Node.js v18+  
 
-### Ejemplo cURL
+## Pasos de instalación
+1. Clonar el repositorio:  
+   ```bash
+   git clone https://github.com/empresa/proyecto.git
+   cd proyecto
+2. Instalar dependencias:
+    ```bash
+   npm install
+5. Ejercutar el proyecto
+   ```bash
+   npm run dev
+Notas:
+Revisar que el puerto 3000 no esté ocupado antes de ejecutar.
+Si aparece error de permisos en Linux, usar:
 ```bash
-curl -X POST "https://api.softwarebogota.com/api/v1/payments" \
-  -H "Authorization: Bearer <token>" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "amount": 150000,
-    "currency": "COP",
-    "customer_id": "CUST-001",
-    "method": "card"
-  }'
+sudo npm install
