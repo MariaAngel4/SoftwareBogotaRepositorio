@@ -5,8 +5,8 @@ Cada carpeta contiene ejemplos prácticos que servirán como guía para nuevos p
 
 | Sección 📁 | Descripción | Ejemplo práctico incluido |
 |------------|-------------|----------------------------|
-| **documentacion-tecnica/** | Manuales y guías para facilitar la instalación y configuración de proyectos. |*Guía para instalar y configurar el entorno de desarrollo* |
+| **configuracion-entorno/** | Manuales y guías para facilitar la instalación y configuración de proyectos. |*Guía para instalar y configurar el entorno de desarrollo* |
 | **casos-soporte/** | Registro de problemas frecuentes y cómo resolverlos paso a paso. |*Error común al iniciar sesión y solución con limpieza de cookies* |
-| **lecciones-aprendidas/** | Experiencias y aprendizajes de proyectos realizados. |*Lección aprendida en el proyecto de plataforma de pagos* |
+| **retrospectivas/** | Experiencias y aprendizajes de proyectos realizados. |*Lección aprendida en el proyecto de plataforma de pagos* |
 
 
