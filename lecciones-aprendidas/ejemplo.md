@@ -1,4 +1,4 @@
-# 💡 Lección Aprendida — Proyecto Plataforma de Pagos
+# Lección Aprendida — Proyecto Plataforma de Pagos
 
 **Autor:** Equipo de Proyecto  
 **Fecha:** 2025-09-13  
